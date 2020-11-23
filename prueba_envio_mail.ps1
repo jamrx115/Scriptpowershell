@@ -1,0 +1,2 @@
+﻿$credential = Get-Credential
+Send-MailMessage -From 'reports@alltic.co'  -To 'jmartinez@alltic.co' -Subject 'this is a subject' Smtpserver -SmtpServer 'alltic.co' -UseSsl -Port 587 -Credential $credential

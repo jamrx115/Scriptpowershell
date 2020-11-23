@@ -1,0 +1,413 @@
+02/04/2020 23:55:27 Conexion BD establecida
+02/04/2020 23:55:27 Running SQL query
+02/04/2020 23:55:27 Finished running SQL query.
+02/04/2020 23:55:27 Genera Archivo
+02/04/2020 23:55:27 winscp> option batch on batch           on         reconnecttime   120        winscp> option confirm off confirm         off        winscp> option reconnecttime 120 reconnecttime   120        winscp> open "sftp://alltic:***@66.82.22.233" -hostkey="ssh-ed25519 256 n7tbACbTQK67LeadiKD912mq7cTMLY0N0uh2I/UTMVA=" -timeout=15 -rawsettings ProxyPort="0" Searching for host... Connecting to host... Authenticating... Using username "alltic". Authenticating with pre-entered password. Authenticated. Starting the session... Session started. Active session: [1] alltic@66.82.22.233 winscp> pwd / winscp> put  -nopermissions -preservetime -transfer="binary" -- "D:\Reporte_cambios_hughes\Creados\reports.csv" "/home/" D:\Reporte_cambios_hughes\Creados\reports.csv |          25 KB |    0.0 KB/s | binary | 100%
+02/04/2020 23:55:27 Pasa archivo a carpeta Cargados
+02/04/2020 23:55:27 Elimina archivo de carpeta Creados
+02/05/2020 23:55:27 Conexion BD establecida
+02/05/2020 23:55:27 Running SQL query
+02/05/2020 23:55:27 Finished running SQL query.
+02/05/2020 23:55:27 Genera Archivo
+02/05/2020 23:55:27 winscp> option batch on batch           on         reconnecttime   120        winscp> option confirm off confirm         off        winscp> option reconnecttime 120 reconnecttime   120        winscp> open "sftp://alltic:***@66.82.22.233" -hostkey="ssh-ed25519 256 n7tbACbTQK67LeadiKD912mq7cTMLY0N0uh2I/UTMVA=" -timeout=15 -rawsettings ProxyPort="0" Searching for host... Connecting to host... Authenticating... Using username "alltic". Authenticating with pre-entered password. Authenticated. Starting the session... Session started. Active session: [1] alltic@66.82.22.233 winscp> pwd / winscp> put  -nopermissions -preservetime -transfer="binary" -- "D:\Reporte_cambios_hughes\Creados\reports.csv" "/home/" D:\Reporte_cambios_hughes\Creados\reports.csv |            0 B |    0.0 KB/s | binary |   0%
+02/05/2020 23:55:27 Pasa archivo a carpeta Cargados
+02/05/2020 23:55:27 Elimina archivo de carpeta Creados
+02/06/2020 23:55:27 Conexion BD establecida
+02/06/2020 23:55:27 Running SQL query
+02/06/2020 23:55:27 Finished running SQL query.
+02/06/2020 23:55:27 Genera Archivo
+02/06/2020 23:55:27 winscp> option batch on batch           on         reconnecttime   120        winscp> option confirm off confirm         off        winscp> option reconnecttime 120 reconnecttime   120        winscp> open "sftp://alltic:***@66.82.22.233" -hostkey="ssh-ed25519 256 n7tbACbTQK67LeadiKD912mq7cTMLY0N0uh2I/UTMVA=" -timeout=15 -rawsettings ProxyPort="0" Searching for host... Connecting to host... Authenticating... Using username "alltic". Authenticating with pre-entered password. Authenticated. Starting the session... Session started. Active session: [1] alltic@66.82.22.233 winscp> pwd / winscp> put  -nopermissions -preservetime -transfer="binary" -- "D:\Reporte_cambios_hughes\Creados\reports.csv" "/home/" D:\Reporte_cambios_hughes\Creados\reports.csv |            0 B |    0.0 KB/s | binary |   0%
+02/06/2020 23:55:27 Pasa archivo a carpeta Cargados
+02/06/2020 23:55:27 Elimina archivo de carpeta Creados
+02/07/2020 23:55:27 Conexion BD establecida
+02/07/2020 23:55:27 Running SQL query
+02/07/2020 23:55:27 Finished running SQL query.
+02/07/2020 23:55:27 Genera Archivo
+02/07/2020 23:55:27 winscp> option batch on batch           on         reconnecttime   120        winscp> option confirm off confirm         off        winscp> option reconnecttime 120 reconnecttime   120        winscp> open "sftp://alltic:***@66.82.22.233" -hostkey="ssh-ed25519 256 n7tbACbTQK67LeadiKD912mq7cTMLY0N0uh2I/UTMVA=" -timeout=15 -rawsettings ProxyPort="0" Searching for host... Connecting to host... Authenticating... Using username "alltic". Authenticating with pre-entered password. Authenticated. Starting the session... Session started. Active session: [1] alltic@66.82.22.233 winscp> pwd / winscp> put  -nopermissions -preservetime -transfer="binary" -- "D:\Reporte_cambios_hughes\Creados\reports.csv" "/home/" D:\Reporte_cambios_hughes\Creados\reports.csv |            0 B |    0.0 KB/s | binary |   0%
+02/07/2020 23:55:27 Pasa archivo a carpeta Cargados
+02/07/2020 23:55:27 Elimina archivo de carpeta Creados
+02/08/2020 23:55:28 Conexion BD establecida
+02/08/2020 23:55:28 Running SQL query
+02/08/2020 23:55:28 Finished running SQL query.
+02/08/2020 23:55:28 Genera Archivo
+02/08/2020 23:55:28 winscp> option batch on batch           on         reconnecttime   120        winscp> option confirm off confirm         off        winscp> option reconnecttime 120 reconnecttime   120        winscp> open "sftp://alltic:***@66.82.22.233" -hostkey="ssh-ed25519 256 n7tbACbTQK67LeadiKD912mq7cTMLY0N0uh2I/UTMVA=" -timeout=15 -rawsettings ProxyPort="0" Searching for host... Connecting to host... Authenticating... Using username "alltic". Authenticating with pre-entered password. Authenticated. Starting the session... Session started. Active session: [1] alltic@66.82.22.233 winscp> pwd / winscp> put  -nopermissions -preservetime -transfer="binary" -- "D:\Reporte_cambios_hughes\Creados\reports.csv" "/home/" D:\Reporte_cambios_hughes\Creados\reports.csv |            0 B |    0.0 KB/s | binary |   0%
+02/08/2020 23:55:28 Pasa archivo a carpeta Cargados
+02/08/2020 23:55:28 Elimina archivo de carpeta Creados
+02/09/2020 23:55:28 Conexion BD establecida
+02/09/2020 23:55:28 Running SQL query
+02/09/2020 23:55:28 Finished running SQL query.
+02/09/2020 23:55:28 Genera Archivo
+02/09/2020 23:55:28 winscp> option batch on batch           on         reconnecttime   120        winscp> option confirm off confirm         off        winscp> option reconnecttime 120 reconnecttime   120        winscp> open "sftp://alltic:***@66.82.22.233" -hostkey="ssh-ed25519 256 n7tbACbTQK67LeadiKD912mq7cTMLY0N0uh2I/UTMVA=" -timeout=15 -rawsettings ProxyPort="0" Searching for host... Connecting to host... Authenticating... Using username "alltic". Authenticating with pre-entered password. Authenticated. Starting the session... Session started. Active session: [1] alltic@66.82.22.233 winscp> pwd / winscp> put  -nopermissions -preservetime -transfer="binary" -- "D:\Reporte_cambios_hughes\Creados\reports.csv" "/home/" D:\Reporte_cambios_hughes\Creados\reports.csv |            0 B |    0.0 KB/s | binary |   0%
+02/09/2020 23:55:28 Pasa archivo a carpeta Cargados
+02/09/2020 23:55:28 Elimina archivo de carpeta Creados
+02/10/2020 23:55:27 Conexion BD establecida
+02/10/2020 23:55:27 Running SQL query
+02/10/2020 23:55:27 Finished running SQL query.
+02/10/2020 23:55:27 Genera Archivo
+02/10/2020 23:55:27 winscp> option batch on batch           on         reconnecttime   120        winscp> option confirm off confirm         off        winscp> option reconnecttime 120 reconnecttime   120        winscp> open "sftp://alltic:***@66.82.22.233" -hostkey="ssh-ed25519 256 n7tbACbTQK67LeadiKD912mq7cTMLY0N0uh2I/UTMVA=" -timeout=15 -rawsettings ProxyPort="0" Searching for host... Connecting to host... Authenticating... Using username "alltic". Authenticating with pre-entered password. Authenticated. Starting the session... Session started. Active session: [1] alltic@66.82.22.233 winscp> pwd / winscp> put  -nopermissions -preservetime -transfer="binary" -- "D:\Reporte_cambios_hughes\Creados\reports.csv" "/home/" D:\Reporte_cambios_hughes\Creados\reports.csv |            0 B |    0.0 KB/s | binary |   0%
+02/10/2020 23:55:27 Pasa archivo a carpeta Cargados
+02/10/2020 23:55:27 Elimina archivo de carpeta Creados
+02/11/2020 23:55:27 Conexion BD establecida
+02/11/2020 23:55:27 Running SQL query
+02/11/2020 23:55:27 Finished running SQL query.
+02/11/2020 23:55:27 Genera Archivo
+02/11/2020 23:55:27 winscp> option batch on batch           on         reconnecttime   120        winscp> option confirm off confirm         off        winscp> option reconnecttime 120 reconnecttime   120        winscp> open "sftp://alltic:***@66.82.22.233" -hostkey="ssh-ed25519 256 n7tbACbTQK67LeadiKD912mq7cTMLY0N0uh2I/UTMVA=" -timeout=15 -rawsettings ProxyPort="0" Searching for host... Connecting to host... Authenticating... Using username "alltic". Authenticating with pre-entered password. Authenticated. Starting the session... Session started. Active session: [1] alltic@66.82.22.233 winscp> pwd / winscp> put  -nopermissions -preservetime -transfer="binary" -- "D:\Reporte_cambios_hughes\Creados\reports.csv" "/home/" D:\Reporte_cambios_hughes\Creados\reports.csv |            0 B |    0.0 KB/s | binary |   0%
+02/11/2020 23:55:27 Pasa archivo a carpeta Cargados
+02/11/2020 23:55:27 Elimina archivo de carpeta Creados
+02/12/2020 23:55:27 Conexion BD establecida
+02/12/2020 23:55:27 Running SQL query
+02/12/2020 23:55:27 Finished running SQL query.
+02/12/2020 23:55:27 Genera Archivo
+02/12/2020 23:55:27 winscp> option batch on batch           on         reconnecttime   120        winscp> option confirm off confirm         off        winscp> option reconnecttime 120 reconnecttime   120        winscp> open "sftp://alltic:***@66.82.22.233" -hostkey="ssh-ed25519 256 n7tbACbTQK67LeadiKD912mq7cTMLY0N0uh2I/UTMVA=" -timeout=15 -rawsettings ProxyPort="0" Searching for host... Connecting to host... Authenticating... Using username "alltic". Authenticating with pre-entered password. Authenticated. Starting the session... Session started. Active session: [1] alltic@66.82.22.233 winscp> pwd / winscp> put  -nopermissions -preservetime -transfer="binary" -- "D:\Reporte_cambios_hughes\Creados\reports.csv" "/home/" D:\Reporte_cambios_hughes\Creados\reports.csv |            0 B |    0.0 KB/s | binary |   0%
+02/12/2020 23:55:27 Pasa archivo a carpeta Cargados
+02/12/2020 23:55:27 Elimina archivo de carpeta Creados
+02/13/2020 23:55:25 Conexion BD establecida
+02/13/2020 23:55:25 Running SQL query
+02/13/2020 23:55:25 Finished running SQL query.
+02/13/2020 23:55:25 Genera Archivo
+02/13/2020 23:55:25 winscp> option batch on batch           on         reconnecttime   120        winscp> option confirm off confirm         off        winscp> option reconnecttime 120 reconnecttime   120        winscp> open "sftp://alltic:***@66.82.22.233" -hostkey="ssh-ed25519 256 n7tbACbTQK67LeadiKD912mq7cTMLY0N0uh2I/UTMVA=" -timeout=15 -rawsettings ProxyPort="0" Searching for host... Connecting to host... Authenticating... Using username "alltic". Authenticating with pre-entered password. Authenticated. Starting the session... Session started. Active session: [1] alltic@66.82.22.233 winscp> pwd / winscp> put  -nopermissions -preservetime -transfer="binary" -- "D:\Reporte_cambios_hughes\Creados\reports.csv" "/home/" D:\Reporte_cambios_hughes\Creados\reports.csv |            0 B |    0.0 KB/s | binary |   0%
+02/13/2020 23:55:25 Pasa archivo a carpeta Cargados
+02/13/2020 23:55:25 Elimina archivo de carpeta Creados
+02/14/2020 23:55:27 Conexion BD establecida
+02/14/2020 23:55:27 Running SQL query
+02/14/2020 23:55:27 Finished running SQL query.
+02/14/2020 23:55:27 Genera Archivo
+02/14/2020 23:55:27 winscp> option batch on batch           on         reconnecttime   120        winscp> option confirm off confirm         off        winscp> option reconnecttime 120 reconnecttime   120        winscp> open "sftp://alltic:***@66.82.22.233" -hostkey="ssh-ed25519 256 n7tbACbTQK67LeadiKD912mq7cTMLY0N0uh2I/UTMVA=" -timeout=15 -rawsettings ProxyPort="0" Searching for host... Connecting to host... Authenticating... Using username "alltic". Authenticating with pre-entered password. Authenticated. Starting the session... Session started. Active session: [1] alltic@66.82.22.233 winscp> pwd / winscp> put  -nopermissions -preservetime -transfer="binary" -- "D:\Reporte_cambios_hughes\Creados\reports.csv" "/home/" D:\Reporte_cambios_hughes\Creados\reports.csv |            0 B |    0.0 KB/s | binary |   0%
+02/14/2020 23:55:27 Pasa archivo a carpeta Cargados
+02/14/2020 23:55:27 Elimina archivo de carpeta Creados
+02/15/2020 23:55:28 Conexion BD establecida
+02/15/2020 23:55:28 Running SQL query
+02/15/2020 23:55:28 Finished running SQL query.
+02/15/2020 23:55:28 Genera Archivo
+02/15/2020 23:55:28 winscp> option batch on batch           on         reconnecttime   120        winscp> option confirm off confirm         off        winscp> option reconnecttime 120 reconnecttime   120        winscp> open "sftp://alltic:***@66.82.22.233" -hostkey="ssh-ed25519 256 n7tbACbTQK67LeadiKD912mq7cTMLY0N0uh2I/UTMVA=" -timeout=15 -rawsettings ProxyPort="0" Searching for host... Connecting to host... Authenticating... Using username "alltic". Authenticating with pre-entered password. Authenticated. Starting the session... Session started. Active session: [1] alltic@66.82.22.233 winscp> pwd / winscp> put  -nopermissions -preservetime -transfer="binary" -- "D:\Reporte_cambios_hughes\Creados\reports.csv" "/home/" D:\Reporte_cambios_hughes\Creados\reports.csv |            0 B |    0.0 KB/s | binary |   0%
+02/15/2020 23:55:28 Pasa archivo a carpeta Cargados
+02/15/2020 23:55:28 Elimina archivo de carpeta Creados
+02/16/2020 23:55:29 Conexion BD establecida
+02/16/2020 23:55:29 Running SQL query
+02/16/2020 23:55:29 Finished running SQL query.
+02/16/2020 23:55:29 Genera Archivo
+02/16/2020 23:55:29 winscp> option batch on batch           on         reconnecttime   120        winscp> option confirm off confirm         off        winscp> option reconnecttime 120 reconnecttime   120        winscp> open "sftp://alltic:***@66.82.22.233" -hostkey="ssh-ed25519 256 n7tbACbTQK67LeadiKD912mq7cTMLY0N0uh2I/UTMVA=" -timeout=15 -rawsettings ProxyPort="0" Searching for host... Connecting to host... Authenticating... Using username "alltic". Authenticating with pre-entered password. Authenticated. Starting the session... Session started. Active session: [1] alltic@66.82.22.233 winscp> pwd / winscp> put  -nopermissions -preservetime -transfer="binary" -- "D:\Reporte_cambios_hughes\Creados\reports.csv" "/home/" D:\Reporte_cambios_hughes\Creados\reports.csv |            0 B |    0.0 KB/s | binary |   0%
+02/16/2020 23:55:29 Pasa archivo a carpeta Cargados
+02/16/2020 23:55:29 Elimina archivo de carpeta Creados
+02/17/2020 17:12:31 Conexion BD establecida
+02/17/2020 17:12:31 Running SQL query
+02/17/2020 17:12:31 Finished running SQL query.
+02/17/2020 17:12:31 Genera Archivo
+02/17/2020 17:12:31 winscp> option batch on batch           on         reconnecttime   120        winscp> option confirm off confirm         off        winscp> option reconnecttime 120 reconnecttime   120        winscp> open "sftp://alltic:***@66.82.22.233" -hostkey="ssh-ed25519 256 n7tbACbTQK67LeadiKD912mq7cTMLY0N0uh2I/UTMVA=" -timeout=15 -rawsettings ProxyPort="0" Searching for host... Connecting to host... Authenticating... Using username "alltic". Authenticating with pre-entered password. Authenticated. Starting the session... Session started. Active session: [1] alltic@66.82.22.233 winscp> pwd / winscp> put  -nopermissions -preservetime -transfer="binary" -- "D:\Reporte_cambios_hughes\Creados\reports.csv" "/home/" D:\Reporte_cambios_hughes\Creados\reports.csv |          66 KB |  738.4 KB/s | binary | 100%
+02/17/2020 17:12:31 Pasa archivo a carpeta Cargados
+02/17/2020 17:12:31 Elimina archivo de carpeta Creados
+02/17/2020 17:28:17 Conexion BD establecida
+02/17/2020 17:28:17 Running SQL query
+02/17/2020 17:28:17 Finished running SQL query.
+02/17/2020 17:28:17 Genera Archivo
+02/17/2020 17:28:17 winscp> option batch on batch           on         reconnecttime   120        winscp> option confirm off confirm         off        winscp> option reconnecttime 120 reconnecttime   120        winscp> open "sftp://alltic:***@66.82.22.233" -hostkey="ssh-ed25519 256 n7tbACbTQK67LeadiKD912mq7cTMLY0N0uh2I/UTMVA=" -timeout=15 -rawsettings ProxyPort="0" Searching for host... Connecting to host... Authenticating... Using username "alltic". Authenticating with pre-entered password. Authenticated. Starting the session... Session started. Active session: [1] alltic@66.82.22.233 winscp> pwd / winscp> put  -nopermissions -preservetime -transfer="binary" -- "D:\Reporte_cambios_hughes\Creados\reports.csv" "/home/" D:\Reporte_cambios_hughes\Creados\reports.csv |          66 KB |  738.4 KB/s | binary | 100%
+02/17/2020 17:28:17 Pasa archivo a carpeta Cargados
+02/17/2020 17:28:17 Elimina archivo de carpeta Creados
+02/17/2020 17:31:56 Conexion BD establecida
+02/17/2020 17:31:56 Running SQL query
+02/17/2020 17:31:56 Finished running SQL query.
+02/17/2020 17:31:56 Genera Archivo
+02/17/2020 17:31:56 winscp> option batch on batch           on         reconnecttime   120        winscp> option confirm off confirm         off        winscp> option reconnecttime 120 reconnecttime   120        winscp> open "sftp://alltic:***@66.82.22.233" -hostkey="ssh-ed25519 256 n7tbACbTQK67LeadiKD912mq7cTMLY0N0uh2I/UTMVA=" -timeout=15 -rawsettings ProxyPort="0" Searching for host... Connecting to host... Authenticating... Using username "alltic". Authenticating with pre-entered password. Authenticated. Starting the session... Session started. Active session: [1] alltic@66.82.22.233 winscp> pwd / winscp> put  -nopermissions -preservetime -transfer="binary" -- "D:\Reporte_cambios_hughes\Creados\reports.csv" "/home/" D:\Reporte_cambios_hughes\Creados\reports.csv |           4 KB |    0.0 KB/s | binary | 100%
+02/17/2020 17:31:56 Pasa archivo a carpeta Cargados
+02/17/2020 17:31:56 Elimina archivo de carpeta Creados
+02/17/2020 23:55:28 Conexion BD establecida
+02/17/2020 23:55:28 Running SQL query
+02/17/2020 23:55:28 Finished running SQL query.
+02/17/2020 23:55:28 Genera Archivo
+02/17/2020 23:55:28 winscp> option batch on batch           on         reconnecttime   120        winscp> option confirm off confirm         off        winscp> option reconnecttime 120 reconnecttime   120        winscp> open "sftp://alltic:***@66.82.22.233" -hostkey="ssh-ed25519 256 n7tbACbTQK67LeadiKD912mq7cTMLY0N0uh2I/UTMVA=" -timeout=15 -rawsettings ProxyPort="0" Searching for host... Connecting to host... Authenticating... Using username "alltic". Authenticating with pre-entered password. Authenticated. Starting the session... Session started. Active session: [1] alltic@66.82.22.233 winscp> pwd / winscp> put  -nopermissions -preservetime -transfer="binary" -- "D:\Reporte_cambios_hughes\Creados\reports.csv" "/home/" D:\Reporte_cambios_hughes\Creados\reports.csv |           4 KB |    0.0 KB/s | binary | 100%
+02/17/2020 23:55:28 Pasa archivo a carpeta Cargados
+02/17/2020 23:55:28 Elimina archivo de carpeta Creados
+02/18/2020 23:55:27 Conexion BD establecida
+02/18/2020 23:55:27 Running SQL query
+02/18/2020 23:55:27 Finished running SQL query.
+02/18/2020 23:55:27 Genera Archivo
+02/18/2020 23:55:27 winscp> option batch on batch           on         reconnecttime   120        winscp> option confirm off confirm         off        winscp> option reconnecttime 120 reconnecttime   120        winscp> open "sftp://alltic:***@66.82.22.233" -hostkey="ssh-ed25519 256 n7tbACbTQK67LeadiKD912mq7cTMLY0N0uh2I/UTMVA=" -timeout=15 -rawsettings ProxyPort="0" Searching for host... Connecting to host... Authenticating... Using username "alltic". Authenticating with pre-entered password. Authenticated. Starting the session... Session started. Active session: [1] alltic@66.82.22.233 winscp> pwd / winscp> put  -nopermissions -preservetime -transfer="binary" -- "D:\Reporte_cambios_hughes\Creados\reports.csv" "/home/" D:\Reporte_cambios_hughes\Creados\reports.csv |            0 B |    0.0 KB/s | binary |   0%
+02/18/2020 23:55:27 Pasa archivo a carpeta Cargados
+02/18/2020 23:55:27 Elimina archivo de carpeta Creados
+02/19/2020 23:55:31 Conexion BD establecida
+02/19/2020 23:55:31 Running SQL query
+02/19/2020 23:55:31 Finished running SQL query.
+02/19/2020 23:55:31 Genera Archivo
+02/19/2020 23:55:31 winscp> option batch on batch           on         reconnecttime   120        winscp> option confirm off confirm         off        winscp> option reconnecttime 120 reconnecttime   120        winscp> open "sftp://alltic:***@66.82.22.233" -hostkey="ssh-ed25519 256 n7tbACbTQK67LeadiKD912mq7cTMLY0N0uh2I/UTMVA=" -timeout=15 -rawsettings ProxyPort="0" Searching for host... Connecting to host... Authenticating... Using username "alltic". Authenticating with pre-entered password. Authenticated. Starting the session... Session started. Active session: [1] alltic@66.82.22.233 winscp> pwd / winscp> put  -nopermissions -preservetime -transfer="binary" -- "D:\Reporte_cambios_hughes\Creados\reports.csv" "/home/" D:\Reporte_cambios_hughes\Creados\reports.csv |            0 B |    0.0 KB/s | binary |   0%
+02/19/2020 23:55:31 Pasa archivo a carpeta Cargados
+02/19/2020 23:55:31 Elimina archivo de carpeta Creados
+02/20/2020 23:55:27 Conexion BD establecida
+02/20/2020 23:55:27 Running SQL query
+02/20/2020 23:55:27 Finished running SQL query.
+02/20/2020 23:55:27 Genera Archivo
+02/20/2020 23:55:27 winscp> option batch on batch           on         reconnecttime   120        winscp> option confirm off confirm         off        winscp> option reconnecttime 120 reconnecttime   120        winscp> open "sftp://alltic:***@66.82.22.233" -hostkey="ssh-ed25519 256 n7tbACbTQK67LeadiKD912mq7cTMLY0N0uh2I/UTMVA=" -timeout=15 -rawsettings ProxyPort="0" Searching for host... Connecting to host... Authenticating... Using username "alltic". Authenticating with pre-entered password. Authenticated. Starting the session... Session started. Active session: [1] alltic@66.82.22.233 winscp> pwd / winscp> put  -nopermissions -preservetime -transfer="binary" -- "D:\Reporte_cambios_hughes\Creados\reports.csv" "/home/" D:\Reporte_cambios_hughes\Creados\reports.csv |            0 B |    0.0 KB/s | binary |   0%
+02/20/2020 23:55:27 Pasa archivo a carpeta Cargados
+02/20/2020 23:55:27 Elimina archivo de carpeta Creados
+02/21/2020 23:55:28 Conexion BD establecida
+02/21/2020 23:55:28 Running SQL query
+02/21/2020 23:55:28 Finished running SQL query.
+02/21/2020 23:55:28 Genera Archivo
+02/21/2020 23:55:28 winscp> option batch on batch           on         reconnecttime   120        winscp> option confirm off confirm         off        winscp> option reconnecttime 120 reconnecttime   120        winscp> open "sftp://alltic:***@66.82.22.233" -hostkey="ssh-ed25519 256 n7tbACbTQK67LeadiKD912mq7cTMLY0N0uh2I/UTMVA=" -timeout=15 -rawsettings ProxyPort="0" Searching for host... Connecting to host... Authenticating... Using username "alltic". Authenticating with pre-entered password. Authenticated. Starting the session... Session started. Active session: [1] alltic@66.82.22.233 winscp> pwd / winscp> put  -nopermissions -preservetime -transfer="binary" -- "D:\Reporte_cambios_hughes\Creados\reports.csv" "/home/" D:\Reporte_cambios_hughes\Creados\reports.csv |            0 B |    0.0 KB/s | binary |   0%
+02/21/2020 23:55:28 Pasa archivo a carpeta Cargados
+02/21/2020 23:55:28 Elimina archivo de carpeta Creados
+02/22/2020 23:55:28 Conexion BD establecida
+02/22/2020 23:55:28 Running SQL query
+02/22/2020 23:55:28 Finished running SQL query.
+02/22/2020 23:55:28 Genera Archivo
+02/22/2020 23:55:28 winscp> option batch on batch           on         reconnecttime   120        winscp> option confirm off confirm         off        winscp> option reconnecttime 120 reconnecttime   120        winscp> open "sftp://alltic:***@66.82.22.233" -hostkey="ssh-ed25519 256 n7tbACbTQK67LeadiKD912mq7cTMLY0N0uh2I/UTMVA=" -timeout=15 -rawsettings ProxyPort="0" Searching for host... Connecting to host... Authenticating... Using username "alltic". Authenticating with pre-entered password. Authenticated. Starting the session... Session started. Active session: [1] alltic@66.82.22.233 winscp> pwd / winscp> put  -nopermissions -preservetime -transfer="binary" -- "D:\Reporte_cambios_hughes\Creados\reports.csv" "/home/" D:\Reporte_cambios_hughes\Creados\reports.csv |            0 B |    0.0 KB/s | binary |   0%
+02/22/2020 23:55:28 Pasa archivo a carpeta Cargados
+02/22/2020 23:55:28 Elimina archivo de carpeta Creados
+02/23/2020 23:55:28 Conexion BD establecida
+02/23/2020 23:55:28 Running SQL query
+02/23/2020 23:55:28 Finished running SQL query.
+02/23/2020 23:55:28 Genera Archivo
+02/23/2020 23:55:28 winscp> option batch on batch           on         reconnecttime   120        winscp> option confirm off confirm         off        winscp> option reconnecttime 120 reconnecttime   120        winscp> open "sftp://alltic:***@66.82.22.233" -hostkey="ssh-ed25519 256 n7tbACbTQK67LeadiKD912mq7cTMLY0N0uh2I/UTMVA=" -timeout=15 -rawsettings ProxyPort="0" Searching for host... Connecting to host... Authenticating... Using username "alltic". Authenticating with pre-entered password. Authenticated. Starting the session... Session started. Active session: [1] alltic@66.82.22.233 winscp> pwd / winscp> put  -nopermissions -preservetime -transfer="binary" -- "D:\Reporte_cambios_hughes\Creados\reports.csv" "/home/" D:\Reporte_cambios_hughes\Creados\reports.csv |            0 B |    0.0 KB/s | binary |   0%
+02/23/2020 23:55:28 Pasa archivo a carpeta Cargados
+02/23/2020 23:55:28 Elimina archivo de carpeta Creados
+02/24/2020 23:55:28 Conexion BD establecida
+02/24/2020 23:55:28 Running SQL query
+02/24/2020 23:55:28 Finished running SQL query.
+02/24/2020 23:55:28 Genera Archivo
+02/24/2020 23:55:28 winscp> option batch on batch           on         reconnecttime   120        winscp> option confirm off confirm         off        winscp> option reconnecttime 120 reconnecttime   120        winscp> open "sftp://alltic:***@66.82.22.233" -hostkey="ssh-ed25519 256 n7tbACbTQK67LeadiKD912mq7cTMLY0N0uh2I/UTMVA=" -timeout=15 -rawsettings ProxyPort="0" Searching for host... Connecting to host... Authenticating... Using username "alltic". Authenticating with pre-entered password. Authenticated. Starting the session... Session started. Active session: [1] alltic@66.82.22.233 winscp> pwd / winscp> put  -nopermissions -preservetime -transfer="binary" -- "D:\Reporte_cambios_hughes\Creados\reports.csv" "/home/" D:\Reporte_cambios_hughes\Creados\reports.csv |            0 B |    0.0 KB/s | binary |   0%
+02/24/2020 23:55:28 Pasa archivo a carpeta Cargados
+02/24/2020 23:55:28 Elimina archivo de carpeta Creados
+02/25/2020 23:55:29 Conexion BD establecida
+02/25/2020 23:55:29 Running SQL query
+02/25/2020 23:55:29 Finished running SQL query.
+02/25/2020 23:55:29 Genera Archivo
+02/25/2020 23:55:29 winscp> option batch on batch           on         reconnecttime   120        winscp> option confirm off confirm         off        winscp> option reconnecttime 120 reconnecttime   120        winscp> open "sftp://alltic:***@66.82.22.233" -hostkey="ssh-ed25519 256 n7tbACbTQK67LeadiKD912mq7cTMLY0N0uh2I/UTMVA=" -timeout=15 -rawsettings ProxyPort="0" Searching for host... Connecting to host... Authenticating... Using username "alltic". Authenticating with pre-entered password. Authenticated. Starting the session... Session started. Active session: [1] alltic@66.82.22.233 winscp> pwd / winscp> put  -nopermissions -preservetime -transfer="binary" -- "D:\Reporte_cambios_hughes\Creados\reports.csv" "/home/" D:\Reporte_cambios_hughes\Creados\reports.csv |            0 B |    0.0 KB/s | binary |   0%
+02/25/2020 23:55:29 Pasa archivo a carpeta Cargados
+02/25/2020 23:55:29 Elimina archivo de carpeta Creados
+02/26/2020 23:55:30 Conexion BD establecida
+02/26/2020 23:55:30 Running SQL query
+02/26/2020 23:55:30 Finished running SQL query.
+02/26/2020 23:55:30 Genera Archivo
+02/26/2020 23:55:30 winscp> option batch on batch           on         reconnecttime   120        winscp> option confirm off confirm         off        winscp> option reconnecttime 120 reconnecttime   120        winscp> open "sftp://alltic:***@66.82.22.233" -hostkey="ssh-ed25519 256 n7tbACbTQK67LeadiKD912mq7cTMLY0N0uh2I/UTMVA=" -timeout=15 -rawsettings ProxyPort="0" Searching for host... Connecting to host... Authenticating... Using username "alltic". Authenticating with pre-entered password. Authenticated. Starting the session... Session started. Active session: [1] alltic@66.82.22.233 winscp> pwd / winscp> put  -nopermissions -preservetime -transfer="binary" -- "D:\Reporte_cambios_hughes\Creados\reports.csv" "/home/" D:\Reporte_cambios_hughes\Creados\reports.csv |            0 B |    0.0 KB/s | binary |   0%
+02/26/2020 23:55:30 Pasa archivo a carpeta Cargados
+02/26/2020 23:55:30 Elimina archivo de carpeta Creados
+02/27/2020 23:55:31 Conexion BD establecida
+02/27/2020 23:55:31 Running SQL query
+02/27/2020 23:55:31 Finished running SQL query.
+02/27/2020 23:55:31 Genera Archivo
+02/27/2020 23:55:31 winscp> option batch on batch           on         reconnecttime   120        winscp> option confirm off confirm         off        winscp> option reconnecttime 120 reconnecttime   120        winscp> open "sftp://alltic:***@66.82.22.233" -hostkey="ssh-ed25519 256 n7tbACbTQK67LeadiKD912mq7cTMLY0N0uh2I/UTMVA=" -timeout=15 -rawsettings ProxyPort="0" Searching for host... Connecting to host... Authenticating... Using username "alltic". Authenticating with pre-entered password. Authenticated. Starting the session... Session started. Active session: [1] alltic@66.82.22.233 winscp> pwd / winscp> put  -nopermissions -preservetime -transfer="binary" -- "D:\Reporte_cambios_hughes\Creados\reports.csv" "/home/" D:\Reporte_cambios_hughes\Creados\reports.csv |            0 B |    0.0 KB/s | binary |   0%
+02/27/2020 23:55:31 Pasa archivo a carpeta Cargados
+02/27/2020 23:55:31 Elimina archivo de carpeta Creados
+02/28/2020 23:55:29 Conexion BD establecida
+02/28/2020 23:55:29 Running SQL query
+02/28/2020 23:55:29 Finished running SQL query.
+02/28/2020 23:55:29 Genera Archivo
+02/28/2020 23:55:29 winscp> option batch on batch           on         reconnecttime   120        winscp> option confirm off confirm         off        winscp> option reconnecttime 120 reconnecttime   120        winscp> open "sftp://alltic:***@66.82.22.233" -hostkey="ssh-ed25519 256 n7tbACbTQK67LeadiKD912mq7cTMLY0N0uh2I/UTMVA=" -timeout=15 -rawsettings ProxyPort="0" Searching for host... Connecting to host... Authenticating... Using username "alltic". Authenticating with pre-entered password. Authenticated. Starting the session... Session started. Active session: [1] alltic@66.82.22.233 winscp> pwd / winscp> put  -nopermissions -preservetime -transfer="binary" -- "D:\Reporte_cambios_hughes\Creados\reports.csv" "/home/" D:\Reporte_cambios_hughes\Creados\reports.csv |            0 B |    0.0 KB/s | binary |   0%
+02/28/2020 23:55:29 Pasa archivo a carpeta Cargados
+02/28/2020 23:55:29 Elimina archivo de carpeta Creados
+02/29/2020 23:55:33 Conexion BD establecida
+02/29/2020 23:55:33 Running SQL query
+02/29/2020 23:55:33 Finished running SQL query.
+02/29/2020 23:55:33 Genera Archivo
+02/29/2020 23:55:33 winscp> option batch on batch           on         reconnecttime   120        winscp> option confirm off confirm         off        winscp> option reconnecttime 120 reconnecttime   120        winscp> open "sftp://alltic:***@66.82.22.233" -hostkey="ssh-ed25519 256 n7tbACbTQK67LeadiKD912mq7cTMLY0N0uh2I/UTMVA=" -timeout=15 -rawsettings ProxyPort="0" Searching for host... Connecting to host... Authenticating... Using username "alltic". Authenticating with pre-entered password. Authenticated. Starting the session... Session started. Active session: [1] alltic@66.82.22.233 winscp> pwd / winscp> put  -nopermissions -preservetime -transfer="binary" -- "D:\Reporte_cambios_hughes\Creados\reports.csv" "/home/" D:\Reporte_cambios_hughes\Creados\reports.csv |            0 B |    0.0 KB/s | binary |   0%
+02/29/2020 23:55:33 Pasa archivo a carpeta Cargados
+02/29/2020 23:55:33 Elimina archivo de carpeta Creados
+03/01/2020 23:55:30 Conexion BD establecida
+03/01/2020 23:55:30 Running SQL query
+03/01/2020 23:55:30 Finished running SQL query.
+03/01/2020 23:55:30 Genera Archivo
+03/01/2020 23:55:30 winscp> option batch on batch           on         reconnecttime   120        winscp> option confirm off confirm         off        winscp> option reconnecttime 120 reconnecttime   120        winscp> open "sftp://alltic:***@66.82.22.233" -hostkey="ssh-ed25519 256 n7tbACbTQK67LeadiKD912mq7cTMLY0N0uh2I/UTMVA=" -timeout=15 -rawsettings ProxyPort="0" Searching for host... Connecting to host... Authenticating... Using username "alltic". Authenticating with pre-entered password. Authenticated. Starting the session... Session started. Active session: [1] alltic@66.82.22.233 winscp> pwd / winscp> put  -nopermissions -preservetime -transfer="binary" -- "D:\Reporte_cambios_hughes\Creados\reports.csv" "/home/" D:\Reporte_cambios_hughes\Creados\reports.csv |            0 B |    0.0 KB/s | binary |   0%
+03/01/2020 23:55:30 Pasa archivo a carpeta Cargados
+03/01/2020 23:55:30 Elimina archivo de carpeta Creados
+03/02/2020 23:55:28 Conexion BD establecida
+03/02/2020 23:55:28 Running SQL query
+03/02/2020 23:55:28 Finished running SQL query.
+03/02/2020 23:55:28 Genera Archivo
+03/02/2020 23:55:28 winscp> option batch on batch           on         reconnecttime   120        winscp> option confirm off confirm         off        winscp> option reconnecttime 120 reconnecttime   120        winscp> open "sftp://alltic:***@66.82.22.233" -hostkey="ssh-ed25519 256 n7tbACbTQK67LeadiKD912mq7cTMLY0N0uh2I/UTMVA=" -timeout=15 -rawsettings ProxyPort="0" Searching for host... Connecting to host... Authenticating... Using username "alltic". Authenticating with pre-entered password. Authenticated. Starting the session... Session started. Active session: [1] alltic@66.82.22.233 winscp> pwd / winscp> put  -nopermissions -preservetime -transfer="binary" -- "D:\Reporte_cambios_hughes\Creados\reports.csv" "/home/" D:\Reporte_cambios_hughes\Creados\reports.csv |            0 B |    0.0 KB/s | binary |   0%
+03/02/2020 23:55:28 Pasa archivo a carpeta Cargados
+03/02/2020 23:55:28 Elimina archivo de carpeta Creados
+03/03/2020 23:55:27 Conexion BD establecida
+03/03/2020 23:55:27 Running SQL query
+03/03/2020 23:55:27 Finished running SQL query.
+03/03/2020 23:55:27 Genera Archivo
+03/03/2020 23:55:27 winscp> option batch on batch           on         reconnecttime   120        winscp> option confirm off confirm         off        winscp> option reconnecttime 120 reconnecttime   120        winscp> open "sftp://alltic:***@66.82.22.233" -hostkey="ssh-ed25519 256 n7tbACbTQK67LeadiKD912mq7cTMLY0N0uh2I/UTMVA=" -timeout=15 -rawsettings ProxyPort="0" Searching for host... Connecting to host... Authenticating... Using username "alltic". Authenticating with pre-entered password. Authenticated. Starting the session... Session started. Active session: [1] alltic@66.82.22.233 winscp> pwd / winscp> put  -nopermissions -preservetime -transfer="binary" -- "D:\Reporte_cambios_hughes\Creados\reports.csv" "/home/" D:\Reporte_cambios_hughes\Creados\reports.csv |            0 B |    0.0 KB/s | binary |   0%
+03/03/2020 23:55:27 Pasa archivo a carpeta Cargados
+03/03/2020 23:55:27 Elimina archivo de carpeta Creados
+03/04/2020 23:55:28 Conexion BD establecida
+03/04/2020 23:55:28 Running SQL query
+03/04/2020 23:55:28 Finished running SQL query.
+03/04/2020 23:55:28 Genera Archivo
+03/04/2020 23:55:28 winscp> option batch on batch           on         reconnecttime   120        winscp> option confirm off confirm         off        winscp> option reconnecttime 120 reconnecttime   120        winscp> open "sftp://alltic:***@66.82.22.233" -hostkey="ssh-ed25519 256 n7tbACbTQK67LeadiKD912mq7cTMLY0N0uh2I/UTMVA=" -timeout=15 -rawsettings ProxyPort="0" Searching for host... Connecting to host... Authenticating... Using username "alltic". Authenticating with pre-entered password. Authenticated. Starting the session... Session started. Active session: [1] alltic@66.82.22.233 winscp> pwd / winscp> put  -nopermissions -preservetime -transfer="binary" -- "D:\Reporte_cambios_hughes\Creados\reports.csv" "/home/" D:\Reporte_cambios_hughes\Creados\reports.csv |            0 B |    0.0 KB/s | binary |   0%
+03/04/2020 23:55:28 Pasa archivo a carpeta Cargados
+03/04/2020 23:55:28 Elimina archivo de carpeta Creados
+03/05/2020 23:55:29 Conexion BD establecida
+03/05/2020 23:55:29 Running SQL query
+03/05/2020 23:55:29 Finished running SQL query.
+03/05/2020 23:55:29 Genera Archivo
+03/05/2020 23:55:29 winscp> option batch on batch           on         reconnecttime   120        winscp> option confirm off confirm         off        winscp> option reconnecttime 120 reconnecttime   120        winscp> open "sftp://alltic:***@66.82.22.233" -hostkey="ssh-ed25519 256 n7tbACbTQK67LeadiKD912mq7cTMLY0N0uh2I/UTMVA=" -timeout=15 -rawsettings ProxyPort="0" Searching for host... Connecting to host... Authenticating... Using username "alltic". Authenticating with pre-entered password. Authenticated. Starting the session... Session started. Active session: [1] alltic@66.82.22.233 winscp> pwd / winscp> put  -nopermissions -preservetime -transfer="binary" -- "D:\Reporte_cambios_hughes\Creados\reports.csv" "/home/" D:\Reporte_cambios_hughes\Creados\reports.csv |            0 B |    0.0 KB/s | binary |   0%
+03/05/2020 23:55:29 Pasa archivo a carpeta Cargados
+03/05/2020 23:55:29 Elimina archivo de carpeta Creados
+03/06/2020 23:55:29 Conexion BD establecida
+03/06/2020 23:55:29 Running SQL query
+03/06/2020 23:55:29 Finished running SQL query.
+03/06/2020 23:55:29 Genera Archivo
+03/06/2020 23:55:29 winscp> option batch on batch           on         reconnecttime   120        winscp> option confirm off confirm         off        winscp> option reconnecttime 120 reconnecttime   120        winscp> open "sftp://alltic:***@66.82.22.233" -hostkey="ssh-ed25519 256 n7tbACbTQK67LeadiKD912mq7cTMLY0N0uh2I/UTMVA=" -timeout=15 -rawsettings ProxyPort="0" Searching for host... Connecting to host... Authenticating... Using username "alltic". Authenticating with pre-entered password. Authenticated. Starting the session... Session started. Active session: [1] alltic@66.82.22.233 winscp> pwd / winscp> put  -nopermissions -preservetime -transfer="binary" -- "D:\Reporte_cambios_hughes\Creados\reports.csv" "/home/" D:\Reporte_cambios_hughes\Creados\reports.csv |            0 B |    0.0 KB/s | binary |   0%
+03/06/2020 23:55:29 Pasa archivo a carpeta Cargados
+03/06/2020 23:55:29 Elimina archivo de carpeta Creados
+03/07/2020 23:55:28 Conexion BD establecida
+03/07/2020 23:55:28 Running SQL query
+03/07/2020 23:55:28 Finished running SQL query.
+03/07/2020 23:55:28 Genera Archivo
+03/07/2020 23:55:28 winscp> option batch on batch           on         reconnecttime   120        winscp> option confirm off confirm         off        winscp> option reconnecttime 120 reconnecttime   120        winscp> open "sftp://alltic:***@66.82.22.233" -hostkey="ssh-ed25519 256 n7tbACbTQK67LeadiKD912mq7cTMLY0N0uh2I/UTMVA=" -timeout=15 -rawsettings ProxyPort="0" Searching for host... Connecting to host... Authenticating... Using username "alltic". Authenticating with pre-entered password. Authenticated. Starting the session... Session started. Active session: [1] alltic@66.82.22.233 winscp> pwd / winscp> put  -nopermissions -preservetime -transfer="binary" -- "D:\Reporte_cambios_hughes\Creados\reports.csv" "/home/" D:\Reporte_cambios_hughes\Creados\reports.csv |            0 B |    0.0 KB/s | binary |   0%
+03/07/2020 23:55:28 Pasa archivo a carpeta Cargados
+03/07/2020 23:55:28 Elimina archivo de carpeta Creados
+03/08/2020 23:55:28 Conexion BD establecida
+03/08/2020 23:55:28 Running SQL query
+03/08/2020 23:55:28 Finished running SQL query.
+03/08/2020 23:55:28 Genera Archivo
+03/08/2020 23:55:28 winscp> option batch on batch           on         reconnecttime   120        winscp> option confirm off confirm         off        winscp> option reconnecttime 120 reconnecttime   120        winscp> open "sftp://alltic:***@66.82.22.233" -hostkey="ssh-ed25519 256 n7tbACbTQK67LeadiKD912mq7cTMLY0N0uh2I/UTMVA=" -timeout=15 -rawsettings ProxyPort="0" Searching for host... Connecting to host... Authenticating... Using username "alltic". Authenticating with pre-entered password. Authenticated. Starting the session... Session started. Active session: [1] alltic@66.82.22.233 winscp> pwd / winscp> put  -nopermissions -preservetime -transfer="binary" -- "D:\Reporte_cambios_hughes\Creados\reports.csv" "/home/" D:\Reporte_cambios_hughes\Creados\reports.csv |            0 B |    0.0 KB/s | binary |   0%
+03/08/2020 23:55:28 Pasa archivo a carpeta Cargados
+03/08/2020 23:55:28 Elimina archivo de carpeta Creados
+03/09/2020 23:55:31 Conexion BD establecida
+03/09/2020 23:55:31 Running SQL query
+03/09/2020 23:55:31 Finished running SQL query.
+03/09/2020 23:55:31 Genera Archivo
+03/09/2020 23:55:31 winscp> option batch on batch           on         reconnecttime   120        winscp> option confirm off confirm         off        winscp> option reconnecttime 120 reconnecttime   120        winscp> open "sftp://alltic:***@66.82.22.233" -hostkey="ssh-ed25519 256 n7tbACbTQK67LeadiKD912mq7cTMLY0N0uh2I/UTMVA=" -timeout=15 -rawsettings ProxyPort="0" Searching for host... Connecting to host... Authenticating... Using username "alltic". Authenticating with pre-entered password. Authenticated. Starting the session... Session started. Active session: [1] alltic@66.82.22.233 winscp> pwd / winscp> put  -nopermissions -preservetime -transfer="binary" -- "D:\Reporte_cambios_hughes\Creados\reports.csv" "/home/" D:\Reporte_cambios_hughes\Creados\reports.csv |            0 B |    0.0 KB/s | binary |   0%
+03/09/2020 23:55:31 Pasa archivo a carpeta Cargados
+03/09/2020 23:55:31 Elimina archivo de carpeta Creados
+03/10/2020 23:55:27 Conexion BD establecida
+03/10/2020 23:55:27 Running SQL query
+03/10/2020 23:55:27 Finished running SQL query.
+03/10/2020 23:55:27 Genera Archivo
+03/10/2020 23:55:27 winscp> option batch on batch           on         reconnecttime   120        winscp> option confirm off confirm         off        winscp> option reconnecttime 120 reconnecttime   120        winscp> open "sftp://alltic:***@66.82.22.233" -hostkey="ssh-ed25519 256 n7tbACbTQK67LeadiKD912mq7cTMLY0N0uh2I/UTMVA=" -timeout=15 -rawsettings ProxyPort="0" Searching for host... Connecting to host... Authenticating... Using username "alltic". Authenticating with pre-entered password. Authenticated. Starting the session... Session started. Active session: [1] alltic@66.82.22.233 winscp> pwd / winscp> put  -nopermissions -preservetime -transfer="binary" -- "D:\Reporte_cambios_hughes\Creados\reports.csv" "/home/" D:\Reporte_cambios_hughes\Creados\reports.csv |            0 B |    0.0 KB/s | binary |   0%
+03/10/2020 23:55:27 Pasa archivo a carpeta Cargados
+03/10/2020 23:55:27 Elimina archivo de carpeta Creados
+03/11/2020 23:55:32 Conexion BD establecida
+03/11/2020 23:55:32 Running SQL query
+03/11/2020 23:55:32 Finished running SQL query.
+03/11/2020 23:55:32 Genera Archivo
+03/11/2020 23:55:32 winscp> option batch on batch           on         reconnecttime   120        winscp> option confirm off confirm         off        winscp> option reconnecttime 120 reconnecttime   120        winscp> open "sftp://alltic:***@66.82.22.233" -hostkey="ssh-ed25519 256 n7tbACbTQK67LeadiKD912mq7cTMLY0N0uh2I/UTMVA=" -timeout=15 -rawsettings ProxyPort="0" Searching for host... Connecting to host... Authenticating... Using username "alltic". Authenticating with pre-entered password. Authenticated. Starting the session... Session started. Active session: [1] alltic@66.82.22.233 winscp> pwd / winscp> put  -nopermissions -preservetime -transfer="binary" -- "D:\Reporte_cambios_hughes\Creados\reports.csv" "/home/" D:\Reporte_cambios_hughes\Creados\reports.csv |            0 B |    0.0 KB/s | binary |   0%
+03/11/2020 23:55:32 Pasa archivo a carpeta Cargados
+03/11/2020 23:55:32 Elimina archivo de carpeta Creados
+03/12/2020 23:55:29 Conexion BD establecida
+03/12/2020 23:55:29 Running SQL query
+03/12/2020 23:55:29 Finished running SQL query.
+03/12/2020 23:55:29 Genera Archivo
+03/12/2020 23:55:29 winscp> option batch on batch           on         reconnecttime   120        winscp> option confirm off confirm         off        winscp> option reconnecttime 120 reconnecttime   120        winscp> open "sftp://alltic:***@66.82.22.233" -hostkey="ssh-ed25519 256 n7tbACbTQK67LeadiKD912mq7cTMLY0N0uh2I/UTMVA=" -timeout=15 -rawsettings ProxyPort="0" Searching for host... Connecting to host... Authenticating... Using username "alltic". Authenticating with pre-entered password. Authenticated. Starting the session... Session started. Active session: [1] alltic@66.82.22.233 winscp> pwd / winscp> put  -nopermissions -preservetime -transfer="binary" -- "D:\Reporte_cambios_hughes\Creados\reports.csv" "/home/" D:\Reporte_cambios_hughes\Creados\reports.csv |            0 B |    0.0 KB/s | binary |   0%
+03/12/2020 23:55:29 Pasa archivo a carpeta Cargados
+03/12/2020 23:55:29 Elimina archivo de carpeta Creados
+03/13/2020 23:55:27 Conexion BD establecida
+03/13/2020 23:55:27 Running SQL query
+03/13/2020 23:55:27 Finished running SQL query.
+03/13/2020 23:55:27 Genera Archivo
+03/13/2020 23:55:27 winscp> option batch on batch           on         reconnecttime   120        winscp> option confirm off confirm         off        winscp> option reconnecttime 120 reconnecttime   120        winscp> open "sftp://alltic:***@66.82.22.233" -hostkey="ssh-ed25519 256 n7tbACbTQK67LeadiKD912mq7cTMLY0N0uh2I/UTMVA=" -timeout=15 -rawsettings ProxyPort="0" Searching for host... Connecting to host... Authenticating... Using username "alltic". Authenticating with pre-entered password. Authenticated. Starting the session... Session started. Active session: [1] alltic@66.82.22.233 winscp> pwd / winscp> put  -nopermissions -preservetime -transfer="binary" -- "D:\Reporte_cambios_hughes\Creados\reports.csv" "/home/" D:\Reporte_cambios_hughes\Creados\reports.csv |            0 B |    0.0 KB/s | binary |   0%
+03/13/2020 23:55:27 Pasa archivo a carpeta Cargados
+03/13/2020 23:55:27 Elimina archivo de carpeta Creados
+03/14/2020 23:55:29 Conexion BD establecida
+03/14/2020 23:55:29 Running SQL query
+03/14/2020 23:55:29 Finished running SQL query.
+03/14/2020 23:55:29 Genera Archivo
+03/14/2020 23:55:29 winscp> option batch on batch           on         reconnecttime   120        winscp> option confirm off confirm         off        winscp> option reconnecttime 120 reconnecttime   120        winscp> open "sftp://alltic:***@66.82.22.233" -hostkey="ssh-ed25519 256 n7tbACbTQK67LeadiKD912mq7cTMLY0N0uh2I/UTMVA=" -timeout=15 -rawsettings ProxyPort="0" Searching for host... Connecting to host... Authenticating... Using username "alltic". Authenticating with pre-entered password. Authenticated. Starting the session... Session started. Active session: [1] alltic@66.82.22.233 winscp> pwd / winscp> put  -nopermissions -preservetime -transfer="binary" -- "D:\Reporte_cambios_hughes\Creados\reports.csv" "/home/" D:\Reporte_cambios_hughes\Creados\reports.csv |            0 B |    0.0 KB/s | binary |   0%
+03/14/2020 23:55:29 Pasa archivo a carpeta Cargados
+03/14/2020 23:55:29 Elimina archivo de carpeta Creados
+03/15/2020 23:55:29 Conexion BD establecida
+03/15/2020 23:55:29 Running SQL query
+03/15/2020 23:55:29 Finished running SQL query.
+03/15/2020 23:55:29 Genera Archivo
+03/15/2020 23:55:29 winscp> option batch on batch           on         reconnecttime   120        winscp> option confirm off confirm         off        winscp> option reconnecttime 120 reconnecttime   120        winscp> open "sftp://alltic:***@66.82.22.233" -hostkey="ssh-ed25519 256 n7tbACbTQK67LeadiKD912mq7cTMLY0N0uh2I/UTMVA=" -timeout=15 -rawsettings ProxyPort="0" Searching for host... Connecting to host... Authenticating... Using username "alltic". Authenticating with pre-entered password. Authenticated. Starting the session... Session started. Active session: [1] alltic@66.82.22.233 winscp> pwd / winscp> put  -nopermissions -preservetime -transfer="binary" -- "D:\Reporte_cambios_hughes\Creados\reports.csv" "/home/" D:\Reporte_cambios_hughes\Creados\reports.csv |            0 B |    0.0 KB/s | binary |   0%
+03/15/2020 23:55:29 Pasa archivo a carpeta Cargados
+03/15/2020 23:55:29 Elimina archivo de carpeta Creados
+03/16/2020 23:55:26 Conexion BD establecida
+03/16/2020 23:55:26 Running SQL query
+03/16/2020 23:55:26 Finished running SQL query.
+03/16/2020 23:55:26 Genera Archivo
+03/16/2020 23:55:26 winscp> option batch on batch           on         reconnecttime   120        winscp> option confirm off confirm         off        winscp> option reconnecttime 120 reconnecttime   120        winscp> open "sftp://alltic:***@66.82.22.233" -hostkey="ssh-ed25519 256 n7tbACbTQK67LeadiKD912mq7cTMLY0N0uh2I/UTMVA=" -timeout=15 -rawsettings ProxyPort="0" Searching for host... Connecting to host... Authenticating... Using username "alltic". Authenticating with pre-entered password. Authenticated. Starting the session... Session started. Active session: [1] alltic@66.82.22.233 winscp> pwd / winscp> put  -nopermissions -preservetime -transfer="binary" -- "D:\Reporte_cambios_hughes\Creados\reports.csv" "/home/" D:\Reporte_cambios_hughes\Creados\reports.csv |            0 B |    0.0 KB/s | binary |   0%
+03/16/2020 23:55:26 Pasa archivo a carpeta Cargados
+03/16/2020 23:55:26 Elimina archivo de carpeta Creados
+03/17/2020 23:55:28 Conexion BD establecida
+03/17/2020 23:55:28 Running SQL query
+03/17/2020 23:55:28 Finished running SQL query.
+03/17/2020 23:55:28 Genera Archivo
+03/17/2020 23:55:28 winscp> option batch on batch           on         reconnecttime   120        winscp> option confirm off confirm         off        winscp> option reconnecttime 120 reconnecttime   120        winscp> open "sftp://alltic:***@66.82.22.233" -hostkey="ssh-ed25519 256 n7tbACbTQK67LeadiKD912mq7cTMLY0N0uh2I/UTMVA=" -timeout=15 -rawsettings ProxyPort="0" Searching for host... Connecting to host... Authenticating... Using username "alltic". Authenticating with pre-entered password. Authenticated. Starting the session... Session started. Active session: [1] alltic@66.82.22.233 winscp> pwd / winscp> put  -nopermissions -preservetime -transfer="binary" -- "D:\Reporte_cambios_hughes\Creados\reports.csv" "/home/" D:\Reporte_cambios_hughes\Creados\reports.csv |            0 B |    0.0 KB/s | binary |   0%
+03/17/2020 23:55:28 Pasa archivo a carpeta Cargados
+03/17/2020 23:55:28 Elimina archivo de carpeta Creados
+03/18/2020 23:55:29 Conexion BD establecida
+03/18/2020 23:55:29 Running SQL query
+03/18/2020 23:55:29 Finished running SQL query.
+03/18/2020 23:55:29 Genera Archivo
+03/18/2020 23:55:29 winscp> option batch on batch           on         reconnecttime   120        winscp> option confirm off confirm         off        winscp> option reconnecttime 120 reconnecttime   120        winscp> open "sftp://alltic:***@66.82.22.233" -hostkey="ssh-ed25519 256 n7tbACbTQK67LeadiKD912mq7cTMLY0N0uh2I/UTMVA=" -timeout=15 -rawsettings ProxyPort="0" Searching for host... Connecting to host... Authenticating... Using username "alltic". Authenticating with pre-entered password. Authenticated. Starting the session... Session started. Active session: [1] alltic@66.82.22.233 winscp> pwd / winscp> put  -nopermissions -preservetime -transfer="binary" -- "D:\Reporte_cambios_hughes\Creados\reports.csv" "/home/" D:\Reporte_cambios_hughes\Creados\reports.csv |            0 B |    0.0 KB/s | binary |   0%
+03/18/2020 23:55:29 Pasa archivo a carpeta Cargados
+03/18/2020 23:55:29 Elimina archivo de carpeta Creados
+03/19/2020 23:55:31 Conexion BD establecida
+03/19/2020 23:55:31 Running SQL query
+03/19/2020 23:55:31 Finished running SQL query.
+03/19/2020 23:55:31 Genera Archivo
+03/19/2020 23:55:31 winscp> option batch on batch           on         reconnecttime   120        winscp> option confirm off confirm         off        winscp> option reconnecttime 120 reconnecttime   120        winscp> open "sftp://alltic:***@66.82.22.233" -hostkey="ssh-ed25519 256 n7tbACbTQK67LeadiKD912mq7cTMLY0N0uh2I/UTMVA=" -timeout=15 -rawsettings ProxyPort="0" Searching for host... Connecting to host... Authenticating... Using username "alltic". Authenticating with pre-entered password. Authenticated. Starting the session... Session started. Active session: [1] alltic@66.82.22.233 winscp> pwd / winscp> put  -nopermissions -preservetime -transfer="binary" -- "D:\Reporte_cambios_hughes\Creados\reports.csv" "/home/" D:\Reporte_cambios_hughes\Creados\reports.csv |            0 B |    0.0 KB/s | binary |   0%
+03/19/2020 23:55:31 Pasa archivo a carpeta Cargados
+03/19/2020 23:55:31 Elimina archivo de carpeta Creados
+03/20/2020 23:55:33 Conexion BD establecida
+03/20/2020 23:55:33 Running SQL query
+03/20/2020 23:55:33 Finished running SQL query.
+03/20/2020 23:55:33 Genera Archivo
+03/20/2020 23:55:33 winscp> option batch on batch           on         reconnecttime   120        winscp> option confirm off confirm         off        winscp> option reconnecttime 120 reconnecttime   120        winscp> open "sftp://alltic:***@66.82.22.233" -hostkey="ssh-ed25519 256 n7tbACbTQK67LeadiKD912mq7cTMLY0N0uh2I/UTMVA=" -timeout=15 -rawsettings ProxyPort="0" Searching for host... Connecting to host... Authenticating... Using username "alltic". Authenticating with pre-entered password. Authenticated. Starting the session... Session started. Active session: [1] alltic@66.82.22.233 winscp> pwd / winscp> put  -nopermissions -preservetime -transfer="binary" -- "D:\Reporte_cambios_hughes\Creados\reports.csv" "/home/" D:\Reporte_cambios_hughes\Creados\reports.csv |            0 B |    0.0 KB/s | binary |   0%
+03/20/2020 23:55:33 Pasa archivo a carpeta Cargados
+03/20/2020 23:55:33 Elimina archivo de carpeta Creados
+03/21/2020 23:55:27 Conexion BD establecida
+03/21/2020 23:55:27 Running SQL query
+03/21/2020 23:55:27 Finished running SQL query.
+03/21/2020 23:55:27 Genera Archivo
+03/21/2020 23:55:27 winscp> option batch on batch           on         reconnecttime   120        winscp> option confirm off confirm         off        winscp> option reconnecttime 120 reconnecttime   120        winscp> open "sftp://alltic:***@66.82.22.233" -hostkey="ssh-ed25519 256 n7tbACbTQK67LeadiKD912mq7cTMLY0N0uh2I/UTMVA=" -timeout=15 -rawsettings ProxyPort="0" Searching for host... Connecting to host... Authenticating... Using username "alltic". Authenticating with pre-entered password. Authenticated. Starting the session... Session started. Active session: [1] alltic@66.82.22.233 winscp> pwd / winscp> put  -nopermissions -preservetime -transfer="binary" -- "D:\Reporte_cambios_hughes\Creados\reports.csv" "/home/" D:\Reporte_cambios_hughes\Creados\reports.csv |            0 B |    0.0 KB/s | binary |   0%
+03/21/2020 23:55:27 Pasa archivo a carpeta Cargados
+03/21/2020 23:55:27 Elimina archivo de carpeta Creados
+03/22/2020 23:55:31 Conexion BD establecida
+03/22/2020 23:55:31 Running SQL query
+03/22/2020 23:55:31 Finished running SQL query.
+03/22/2020 23:55:31 Genera Archivo
+03/22/2020 23:55:31 winscp> option batch on batch           on         reconnecttime   120        winscp> option confirm off confirm         off        winscp> option reconnecttime 120 reconnecttime   120        winscp> open "sftp://alltic:***@66.82.22.233" -hostkey="ssh-ed25519 256 n7tbACbTQK67LeadiKD912mq7cTMLY0N0uh2I/UTMVA=" -timeout=15 -rawsettings ProxyPort="0" Searching for host... Connecting to host... Authenticating... Using username "alltic". Authenticating with pre-entered password. Authenticated. Starting the session... Session started. Active session: [1] alltic@66.82.22.233 winscp> pwd / winscp> put  -nopermissions -preservetime -transfer="binary" -- "D:\Reporte_cambios_hughes\Creados\reports.csv" "/home/" D:\Reporte_cambios_hughes\Creados\reports.csv |            0 B |    0.0 KB/s | binary |   0%
+03/22/2020 23:55:31 Pasa archivo a carpeta Cargados
+03/22/2020 23:55:31 Elimina archivo de carpeta Creados
+03/23/2020 23:55:29 Conexion BD establecida
+03/23/2020 23:55:29 Running SQL query
+03/23/2020 23:55:29 Finished running SQL query.
+03/23/2020 23:55:29 Genera Archivo
+03/23/2020 23:55:29 winscp> option batch on batch           on         reconnecttime   120        winscp> option confirm off confirm         off        winscp> option reconnecttime 120 reconnecttime   120        winscp> open "sftp://alltic:***@66.82.22.233" -hostkey="ssh-ed25519 256 n7tbACbTQK67LeadiKD912mq7cTMLY0N0uh2I/UTMVA=" -timeout=15 -rawsettings ProxyPort="0" Searching for host... Connecting to host... Authenticating... Using username "alltic". Authenticating with pre-entered password. Authenticated. Starting the session... Session started. Active session: [1] alltic@66.82.22.233 winscp> pwd / winscp> put  -nopermissions -preservetime -transfer="binary" -- "D:\Reporte_cambios_hughes\Creados\reports.csv" "/home/" D:\Reporte_cambios_hughes\Creados\reports.csv |            0 B |    0.0 KB/s | binary |   0%
+03/23/2020 23:55:29 Pasa archivo a carpeta Cargados
+03/23/2020 23:55:29 Elimina archivo de carpeta Creados
+03/24/2020 23:55:30 Conexion BD establecida
+03/24/2020 23:55:30 Running SQL query
+03/24/2020 23:55:30 Finished running SQL query.
+03/24/2020 23:55:30 Genera Archivo
+03/24/2020 23:55:30 winscp> option batch on batch           on         reconnecttime   120        winscp> option confirm off confirm         off        winscp> option reconnecttime 120 reconnecttime   120        winscp> open "sftp://alltic:***@66.82.22.233" -hostkey="ssh-ed25519 256 n7tbACbTQK67LeadiKD912mq7cTMLY0N0uh2I/UTMVA=" -timeout=15 -rawsettings ProxyPort="0" Searching for host... Connecting to host... Authenticating... Using username "alltic". Authenticating with pre-entered password. Authenticated. Starting the session... Session started. Active session: [1] alltic@66.82.22.233 winscp> pwd / winscp> put  -nopermissions -preservetime -transfer="binary" -- "D:\Reporte_cambios_hughes\Creados\reports.csv" "/home/" D:\Reporte_cambios_hughes\Creados\reports.csv |            0 B |    0.0 KB/s | binary |   0%
+03/24/2020 23:55:30 Pasa archivo a carpeta Cargados
+03/24/2020 23:55:30 Elimina archivo de carpeta Creados
+03/25/2020 23:55:27 Conexion BD establecida
+03/25/2020 23:55:27 Running SQL query
+03/25/2020 23:55:27 Finished running SQL query.
+03/25/2020 23:55:27 Genera Archivo
+03/25/2020 23:55:27 winscp> option batch on batch           on         reconnecttime   120        winscp> option confirm off confirm         off        winscp> option reconnecttime 120 reconnecttime   120        winscp> open "sftp://alltic:***@66.82.22.233" -hostkey="ssh-ed25519 256 n7tbACbTQK67LeadiKD912mq7cTMLY0N0uh2I/UTMVA=" -timeout=15 -rawsettings ProxyPort="0" Searching for host... Connecting to host... Authenticating... Using username "alltic". Authenticating with pre-entered password. Authenticated. Starting the session... Session started. Active session: [1] alltic@66.82.22.233 winscp> pwd / winscp> put  -nopermissions -preservetime -transfer="binary" -- "D:\Reporte_cambios_hughes\Creados\reports.csv" "/home/" D:\Reporte_cambios_hughes\Creados\reports.csv |            0 B |    0.0 KB/s | binary |   0%
+03/25/2020 23:55:27 Pasa archivo a carpeta Cargados
+03/25/2020 23:55:27 Elimina archivo de carpeta Creados
+03/26/2020 23:55:27 Conexion BD establecida
+03/26/2020 23:55:27 Running SQL query
+03/26/2020 23:55:27 Finished running SQL query.
+03/26/2020 23:55:27 Genera Archivo
+03/26/2020 23:55:27 winscp> option batch on batch           on         reconnecttime   120        winscp> option confirm off confirm         off        winscp> option reconnecttime 120 reconnecttime   120        winscp> open "sftp://alltic:***@66.82.22.233" -hostkey="ssh-ed25519 256 n7tbACbTQK67LeadiKD912mq7cTMLY0N0uh2I/UTMVA=" -timeout=15 -rawsettings ProxyPort="0" Searching for host... Connecting to host... Authenticating... Using username "alltic". Authenticating with pre-entered password. Authenticated. Starting the session... Session started. Active session: [1] alltic@66.82.22.233 winscp> pwd / winscp> put  -nopermissions -preservetime -transfer="binary" -- "D:\Reporte_cambios_hughes\Creados\reports.csv" "/home/" D:\Reporte_cambios_hughes\Creados\reports.csv |            0 B |    0.0 KB/s | binary |   0%
+03/26/2020 23:55:27 Pasa archivo a carpeta Cargados
+03/26/2020 23:55:27 Elimina archivo de carpeta Creados
+03/27/2020 23:55:27 Conexion BD establecida
+03/27/2020 23:55:27 Running SQL query
+03/27/2020 23:55:27 Finished running SQL query.
+03/27/2020 23:55:27 Genera Archivo
+03/27/2020 23:55:27 winscp> option batch on batch           on         reconnecttime   120        winscp> option confirm off confirm         off        winscp> option reconnecttime 120 reconnecttime   120        winscp> open "sftp://alltic:***@66.82.22.233" -hostkey="ssh-ed25519 256 n7tbACbTQK67LeadiKD912mq7cTMLY0N0uh2I/UTMVA=" -timeout=15 -rawsettings ProxyPort="0" Searching for host... Connecting to host... Authenticating... Using username "alltic". Authenticating with pre-entered password. Authenticated. Starting the session... Session started. Active session: [1] alltic@66.82.22.233 winscp> pwd / winscp> put  -nopermissions -preservetime -transfer="binary" -- "D:\Reporte_cambios_hughes\Creados\reports.csv" "/home/" D:\Reporte_cambios_hughes\Creados\reports.csv |            0 B |    0.0 KB/s | binary |   0%
+03/27/2020 23:55:27 Pasa archivo a carpeta Cargados
+03/27/2020 23:55:27 Elimina archivo de carpeta Creados
+03/28/2020 23:55:30 Conexion BD establecida
+03/28/2020 23:55:30 Running SQL query
+03/28/2020 23:55:30 Finished running SQL query.
+03/28/2020 23:55:30 Genera Archivo
+03/28/2020 23:55:30 winscp> option batch on batch           on         reconnecttime   120        winscp> option confirm off confirm         off        winscp> option reconnecttime 120 reconnecttime   120        winscp> open "sftp://alltic:***@66.82.22.233" -hostkey="ssh-ed25519 256 n7tbACbTQK67LeadiKD912mq7cTMLY0N0uh2I/UTMVA=" -timeout=15 -rawsettings ProxyPort="0" Searching for host... Connecting to host... Authenticating... Using username "alltic". Authenticating with pre-entered password. Authenticated. Starting the session... Session started. Active session: [1] alltic@66.82.22.233 winscp> pwd / winscp> put  -nopermissions -preservetime -transfer="binary" -- "D:\Reporte_cambios_hughes\Creados\reports.csv" "/home/" D:\Reporte_cambios_hughes\Creados\reports.csv |            0 B |    0.0 KB/s | binary |   0%
+03/28/2020 23:55:30 Pasa archivo a carpeta Cargados
+03/28/2020 23:55:30 Elimina archivo de carpeta Creados
+03/29/2020 23:55:32 Conexion BD establecida
+03/29/2020 23:55:32 Running SQL query
+03/29/2020 23:55:32 Finished running SQL query.
+03/29/2020 23:55:32 Genera Archivo
+03/29/2020 23:55:32 winscp> option batch on batch           on         reconnecttime   120        winscp> option confirm off confirm         off        winscp> option reconnecttime 120 reconnecttime   120        winscp> open "sftp://alltic:***@66.82.22.233" -hostkey="ssh-ed25519 256 n7tbACbTQK67LeadiKD912mq7cTMLY0N0uh2I/UTMVA=" -timeout=15 -rawsettings ProxyPort="0" Searching for host... Connecting to host... Authenticating... Using username "alltic". Authenticating with pre-entered password. Authenticated. Starting the session... Session started. Active session: [1] alltic@66.82.22.233 winscp> pwd / winscp> put  -nopermissions -preservetime -transfer="binary" -- "D:\Reporte_cambios_hughes\Creados\reports.csv" "/home/" D:\Reporte_cambios_hughes\Creados\reports.csv |            0 B |    0.0 KB/s | binary |   0%
+03/29/2020 23:55:32 Pasa archivo a carpeta Cargados
+03/29/2020 23:55:32 Elimina archivo de carpeta Creados
+03/30/2020 23:55:30 Conexion BD establecida
+03/30/2020 23:55:30 Running SQL query
+03/30/2020 23:55:30 Finished running SQL query.
+03/30/2020 23:55:30 Genera Archivo
+03/30/2020 23:55:30 winscp> option batch on batch           on         reconnecttime   120        winscp> option confirm off confirm         off        winscp> option reconnecttime 120 reconnecttime   120        winscp> open "sftp://alltic:***@66.82.22.233" -hostkey="ssh-ed25519 256 n7tbACbTQK67LeadiKD912mq7cTMLY0N0uh2I/UTMVA=" -timeout=15 -rawsettings ProxyPort="0" Searching for host... Connecting to host... Authenticating... Using username "alltic". Authenticating with pre-entered password. Authenticated. Starting the session... Session started. Active session: [1] alltic@66.82.22.233 winscp> pwd / winscp> put  -nopermissions -preservetime -transfer="binary" -- "D:\Reporte_cambios_hughes\Creados\reports.csv" "/home/" D:\Reporte_cambios_hughes\Creados\reports.csv |            0 B |    0.0 KB/s | binary |   0%
+03/30/2020 23:55:30 Pasa archivo a carpeta Cargados
+03/30/2020 23:55:30 Elimina archivo de carpeta Creados
